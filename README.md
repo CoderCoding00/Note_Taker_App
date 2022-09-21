@@ -4,7 +4,7 @@
 
 I created an application called Note Taker that writes and saves notes using Express.js for the back end. The data is saved and retrieved from a JSON file. Connected the front and back end and deployed the application to Heroku. 
 
-The Bonus for the assignment was for the user to be able to delete notes. I handled this by using the same basic code that was used to post a note, but adding a new const to filter the array against the note that was to be deleted. 
+The Bonus for this assignment was for the user to be able to delete notes. I handled this by using the same basic code that was used to post a note, but adding a new const to filter the array against the note that was to be deleted. 
 
 #
 
