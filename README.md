@@ -1,6 +1,6 @@
 # Note Taker
 
-## Challenge 
+## Challenge Description and Purpose of the Application
 
 I created an application called Note Taker that writes and saves notes using Express.js for the back end. The data is saved and retrieved from a JSON file. Connected the front and back end and deployed the application to Heroku. 
 
